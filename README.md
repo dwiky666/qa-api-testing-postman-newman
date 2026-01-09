@@ -16,5 +16,4 @@ This repository contains **Manual and Automation API Testing** for the Reqres.in
 - Newman
 - JavaScript (Postman test scripts)
 
-## Author
-Dwiky Al Asyam — Software Quality Assurance
+
